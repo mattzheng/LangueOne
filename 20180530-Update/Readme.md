@@ -3,8 +3,8 @@
 
 本次更新两样挖掘材料：
 
-CoOccurrence_data_800.csv
-word_Understanding.csv
+ - CoOccurrence_data_800.csv 
+ - word_Understanding.csv
 
 
 其中：
