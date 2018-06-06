@@ -62,9 +62,13 @@
 
 ## 20180606更新
 
+
 基于词向量的拓词expandwords.py
+
 当然要加载词向量文件。
+
 拓词函数，利用gensim求相似、找对应关系、寻找不合群词、拓词环节
+
 
 
   [1]: https://github.com/mattzheng/LangueOne/blob/master/20180530-Update/toutiao_gephi.png
